@@ -1,0 +1,1 @@
+first word x = if even x then word else reverse word
